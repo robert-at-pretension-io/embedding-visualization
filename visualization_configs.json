@@ -1,0 +1,18 @@
+{
+  "configurations": {
+    "Tight Clusters": {
+      "algorithm": "umap",
+      "n_components": 2,
+      "color_by": "dbscan",
+      "n_neighbors": 15,
+      "min_dist": 0.05,
+      "metric": "cosine",
+      "cluster_params": {
+        "eps": 0.5,
+        "min_samples": 5
+      },
+      "saved_at": "2025-08-02 13:56:14"
+    }
+  },
+  "default": "Tight Clusters"
+}
