@@ -15,6 +15,7 @@ env/
 # Project specific
 document_index.json
 test_docs/
+indices/*.json
 
 # OS
 .DS_Store
